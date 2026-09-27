@@ -5,21 +5,3 @@
 Filmes/Ação/MissaoImpossivel.mp4
 #EXTINF:-1 tvg-name="John Wick" group-title="Ação",John Wick
 Filmes/Ação/JohnWick.mp4
-
-# --- COMÉDIA ---
-#EXTINF:-1 tvg-name="Se Beber, Não Case" group-title="Comédia",Se Beber, Não Case
-Filmes/Comédia/SeBeberNaoCase.mp4
-#EXTINF:-1 tvg-name="Todo Mundo em Pânico" group-title="Comédia",Todo Mundo em Pânico
-Filmes/Comédia/TodoMundoEmPanico.mp4
-
-# --- DRAMA ---
-#EXTINF:-1 tvg-name="O Poderoso Chefão" group-title="Drama",O Poderoso Chefão
-Filmes/Drama/OPoderosoChefao.mp4
-#EXTINF:-1 tvg-name="Clube da Luta" group-title="Drama",Clube da Luta
-Filmes/Drama/ClubeDaLuta.mp4
-
-# --- TERROR ---
-#EXTINF:-1 tvg-name="Invocação do Mal" group-title="Terror",Invocação do Mal
-Filmes/Terror/InvocacaoDoMal.mp4
-#EXTINF:-1 tvg-name="It: A Coisa" group-title="Terror",It: A Coisa
-Filmes/Terror/ItACoisa.mp4
