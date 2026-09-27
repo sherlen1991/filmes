@@ -1,9 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Filme Ação" tvg-logo="http://exemplo.com/logoacao.png" group-title="Filmes",Filme Ação
-http://exemplo.com/stream/filmeacao.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Filme Comédia" tvg-logo="http://exemplo.com/logocomedia.png" group-title="Filmes",Filme Comédia
-http://exemplo.com/stream/filmecomedia.m3u8
+# --- AÇÃO ---
+#EXTINF:-1 tvg-name="Missão Impossível" tvg-logo="http://exemplo.com/missao.png" group-title="Ação",Missão Impossível
+http://exemplo.com/stream/missao.m3u8
+#EXTINF:-1 tvg-name="John Wick" tvg-logo="http://exemplo.com/johnwick.png" group-title="Ação",John Wick
+http://exemplo.com/stream/johnwick.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Filme Drama" tvg-logo="http://exemplo.com/logodrama.png" group-title="Filmes",Filme Drama
-http://exemplo.com/stream/filmedrama.m3u8
+# --- COMÉDIA ---
+#EXTINF:-1 tvg-name="Se Beber, Não Case" tvg-logo="http://exemplo.com/hangover.png" group-title="Comédia",Se Beber, Não Case
+http://exemplo.com/stream/hangover.m3u8
+#EXTINF:-1 tvg-name="Todo Mundo em Pânico" tvg-logo="http://exemplo.com/panico.png" group-title="Comédia",Todo Mundo em Pânico
+http://exemplo.com/stream/panico.m3u8
+
+# --- DRAMA ---
+#EXTINF:-1 tvg-name="O Poderoso Chefão" tvg-logo="http://exemplo.com/chefao.png" group-title="Drama",O Poderoso Chefão
+http://exemplo.com/stream/chefao.m3u8
+#EXTINF:-1 tvg-name="Clube da Luta" tvg-logo="http://exemplo.com/clube.png" group-title="Drama",Clube da Luta
+http://exemplo.com/stream/clube.m3u8
+
+# --- TERROR ---
+#EXTINF:-1 tvg-name="Invocação do Mal" tvg-logo="http://exemplo.com/invocacao.png" group-title="Terror",Invocação do Mal
+http://exemplo.com/stream/invocacao.m3u8
+#EXTINF:-1 tvg-name="It: A Coisa" tvg-logo="http://exemplo.com/it.png" group-title="Terror",It: A Coisa
+http://exemplo.com/stream/it.m3u8
