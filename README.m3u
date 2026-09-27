@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Filme Ação" tvg-logo="http://exemplo.com/logoacao.png" group-title="Filmes",Filme Ação
+http://exemplo.com/stream/filmeacao.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Filme Comédia" tvg-logo="http://exemplo.com/logocomedia.png" group-title="Filmes",Filme Comédia
+http://exemplo.com/stream/filmecomedia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Filme Drama" tvg-logo="http://exemplo.com/logodrama.png" group-title="Filmes",Filme Drama
+http://exemplo.com/stream/filmedrama.m3u8
