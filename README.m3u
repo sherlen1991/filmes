@@ -3,5 +3,5 @@
 # --- AÇÃO ---
 #EXTINF:-1 tvg-name="Missão Impossível" group-title="Ação",Missão Impossível
 Filmes/Ação/MissaoImpossivel.mp4
-#EXTINF:-1 tvg-name="John Wick" group-title="Ação",John Wick
+tvg-name="John Wick" group-title="Ação",John Wick
 Filmes/Ação/JohnWick.mp4
