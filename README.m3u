@@ -1,25 +1,25 @@
 #EXTM3U
 
 # --- AÇÃO ---
-#EXTINF:-1 tvg-name="Missão Impossível" tvg-logo="http://exemplo.com/missao.png" group-title="Ação",Missão Impossível
-http://exemplo.com/stream/missao.m3u8
-#EXTINF:-1 tvg-name="John Wick" tvg-logo="http://exemplo.com/johnwick.png" group-title="Ação",John Wick
-http://exemplo.com/stream/johnwick.m3u8
+#EXTINF:-1 tvg-name="Missão Impossível" group-title="Ação",Missão Impossível
+Filmes/Ação/MissaoImpossivel.mp4
+#EXTINF:-1 tvg-name="John Wick" group-title="Ação",John Wick
+Filmes/Ação/JohnWick.mp4
 
 # --- COMÉDIA ---
-#EXTINF:-1 tvg-name="Se Beber, Não Case" tvg-logo="http://exemplo.com/hangover.png" group-title="Comédia",Se Beber, Não Case
-http://exemplo.com/stream/hangover.m3u8
-#EXTINF:-1 tvg-name="Todo Mundo em Pânico" tvg-logo="http://exemplo.com/panico.png" group-title="Comédia",Todo Mundo em Pânico
-http://exemplo.com/stream/panico.m3u8
+#EXTINF:-1 tvg-name="Se Beber, Não Case" group-title="Comédia",Se Beber, Não Case
+Filmes/Comédia/SeBeberNaoCase.mp4
+#EXTINF:-1 tvg-name="Todo Mundo em Pânico" group-title="Comédia",Todo Mundo em Pânico
+Filmes/Comédia/TodoMundoEmPanico.mp4
 
 # --- DRAMA ---
-#EXTINF:-1 tvg-name="O Poderoso Chefão" tvg-logo="http://exemplo.com/chefao.png" group-title="Drama",O Poderoso Chefão
-http://exemplo.com/stream/chefao.m3u8
-#EXTINF:-1 tvg-name="Clube da Luta" tvg-logo="http://exemplo.com/clube.png" group-title="Drama",Clube da Luta
-http://exemplo.com/stream/clube.m3u8
+#EXTINF:-1 tvg-name="O Poderoso Chefão" group-title="Drama",O Poderoso Chefão
+Filmes/Drama/OPoderosoChefao.mp4
+#EXTINF:-1 tvg-name="Clube da Luta" group-title="Drama",Clube da Luta
+Filmes/Drama/ClubeDaLuta.mp4
 
 # --- TERROR ---
-#EXTINF:-1 tvg-name="Invocação do Mal" tvg-logo="http://exemplo.com/invocacao.png" group-title="Terror",Invocação do Mal
-http://exemplo.com/stream/invocacao.m3u8
-#EXTINF:-1 tvg-name="It: A Coisa" tvg-logo="http://exemplo.com/it.png" group-title="Terror",It: A Coisa
-http://exemplo.com/stream/it.m3u8
+#EXTINF:-1 tvg-name="Invocação do Mal" group-title="Terror",Invocação do Mal
+Filmes/Terror/InvocacaoDoMal.mp4
+#EXTINF:-1 tvg-name="It: A Coisa" group-title="Terror",It: A Coisa
+Filmes/Terror/ItACoisa.mp4
