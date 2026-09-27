@@ -2,7 +2,7 @@
 
 # --- AÇÃO ---
 #EXTINF:-1 tvg-name="Missão Impossível" tvg-logo="http://exemplo.com/missao.png" group-title="Ação",Missão Impossível
-http://exemplo.com/stream/missao.m3u8
+http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/124.mp4
 #EXTINF:-1 tvg-name="John Wick" tvg-logo="http://exemplo.com/johnwick.png" group-title="Ação",John Wick
 http://exemplo.com/stream/johnwick.m3u8
 
